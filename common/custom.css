@@ -1,0 +1,29 @@
+.nav-action {
+	color: #39b54a;
+}
+
+.nav-default {
+	color: #aaaaaa;
+}
+
+.status-bar-item-style {
+	background: rgba(255,255,255,0.3);
+}
+.status-bar-icon-style {
+	color: #999;
+	font-size: 20px;
+}
+.status-bar-item-content-style {
+	
+}
+.status-bar-item-content-text-style {
+	font-size: 20px !important;
+	color: #fff;
+}
+.status-bar-item-search-style {
+	
+}
+.status-bar-item-search-text-style {
+	font-size: 14px !important;
+	color: #999;
+}

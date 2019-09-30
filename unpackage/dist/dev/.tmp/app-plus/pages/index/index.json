@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "status-bar": "/components/status-bar",
+    "basics": "/pages/basics/home",
+    "components": "/pages/component/home",
+    "plugin": "/pages/plugin/home",
+    "nav-bar": "/components/nav-bar"
+  }
+}
